@@ -45,7 +45,7 @@ int main()
         cout<<*it<<" ";
         it++;
     }
-
+// *****************changes**************
 
 
     // second.push_back(100);
